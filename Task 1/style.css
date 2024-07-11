@@ -1,0 +1,23 @@
+.the_body {
+  background-color: aquamarine;
+}
+.Heading {
+  color: forestgreen;
+}
+.the_body_item1 {
+  text-align: center;
+}
+.the_body_item2 {
+  text-align: center;
+  color: coral;
+}
+
+.Table {
+  background-color: darkgrey;
+}
+.Table td {
+  padding-right: 50px;
+}
+.Vedio {
+  margin: 50px 0px 0px 350px;
+}
